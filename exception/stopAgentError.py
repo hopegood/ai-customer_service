@@ -1,0 +1,2 @@
+class StopAgentError(Exception):
+    pass
